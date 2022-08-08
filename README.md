@@ -16,7 +16,7 @@ To get a local copy up and running, follow these simple steps:
 
 ## Usage
 
-First copy this repo and clone it on your machine using this [link]https://github.com/Kumilachew-g/Awesome-Books-SPA.git.
+First copy this repo and clone it on your machine using this [link]https://github.com/Kumilachew-g/Awesome-Books-ES6.git
 Then cd into fabio-kumilachew-awesome-books directory.
 
 # Authors
@@ -33,6 +33,8 @@ Then cd into fabio-kumilachew-awesome-books directory.
 # Contributing
 
 # Live Demo
+
+https://kumilachew-g.github.io/Awesome-Books-ES6/
 
 # Show your support
 
