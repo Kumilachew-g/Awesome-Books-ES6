@@ -21,9 +21,6 @@ Then cd into fabio-kumilachew-awesome-books directory.
 
 # Authors
 
-:adult: **Fábio Vinícius Dias Lima**
-
-- GitHub: [@githubhandle](https://github.com/limavfabio)
 
 :adult: **Kumilachew Getie**
 
