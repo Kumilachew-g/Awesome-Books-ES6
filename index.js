@@ -30,11 +30,9 @@ export default class Book {
         </div>`;
 
     const removeBtn = document.querySelectorAll('.card-remove-button');
-    removeBtn.forEach((button, index) =>
-      button.addEventListener('click', () => {
-        Book.removeCard(index);
-      })
-    );
+    removeBtn.forEach((button, index) => button.addEventListener('click', () => {
+      Book.removeCard(index);
+    }));
   }
 
   // A Method to remove current object from the array
@@ -53,13 +51,10 @@ export default class Book {
         <div class="book-author">${books[index].author}</div>
         <button class="card-remove-button">Remove</button>
         </div>`;
-
       const removeBtn = document.querySelectorAll('.card-remove-button');
-      removeBtn.forEach((button, index) =>
-        button.addEventListener('click', () => {
-          Book.removeCard(index);
-        })
-      );
+      removeBtn.forEach((button, index) => button.addEventListener('click', () => {
+        Book.removeCard(index);
+      }));
     }
   }
 }
